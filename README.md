@@ -27,6 +27,7 @@ Key Files:
 web/index.html
 web/tsi.css
 web/tsi.js
+Lambda/LambdaEndorsement.py, SkillEndorse.py
 ## 5. Automation with Shell Scripts
 Description: Wrote shell scripts for backup automation, log management, and monitoring tasks.
 Key Files:
